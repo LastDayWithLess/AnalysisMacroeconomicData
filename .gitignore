@@ -1,0 +1,5 @@
+venv
+.coverage
+.pytest_cashe
+htmlcov
+__pycache__
